@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "freecodecamp challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisL108/freecodecamp.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "programming",
+    "javascript"
+  ],
+  "author": "Chris Lacaille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisL108/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/ChrisL108/freecodecamp#readme"
+}
