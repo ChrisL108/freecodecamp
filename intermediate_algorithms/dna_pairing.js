@@ -6,7 +6,7 @@ function pairElement(str) {
   
   // Loop through DNA string
   for (var i=0; i<newStr.length; i++) {
-    //  Loop through the 2 sets of pairs
+    //  Loop through 'pairs' (var)
     for (var pair in pairs) {
 
       //    if theres a match to pair[0], append
