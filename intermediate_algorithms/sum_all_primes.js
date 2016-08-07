@@ -13,7 +13,7 @@ function sumPrimes(num) {
         }
       }
     }
-    console.log(primes);
+    // return the sum of all primes
     return primes.reduce( (a, b) => {return a + b;} );
   }
 
